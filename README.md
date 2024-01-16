@@ -1,3 +1,2 @@
 ABCDEFGHIJjnnknkln
-XYZ!@#$
-1234
+XYZ!@#
